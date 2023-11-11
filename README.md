@@ -1,25 +1,25 @@
 
-<img width="343" alt="Logo-Horizontal" src="https://github.com/pizzo54/Avito-Car-Sales-Analysis/assets/87623142/9d82d3ff-efe5-4f35-8f4c-ac22f0f7ba56">
 
 
 
+![unnamed (1)](https://github.com/pizzo54/Avito-Car-Sales-Analysis/assets/87623142/937465f7-cab6-4984-8447-9693b27c25a6)
 
 
 𝗧𝗵𝗶𝘀 𝗽𝗿𝗼𝗷𝗲𝗰𝘁, 𝘀𝗼𝘂𝗿𝗰𝗲𝗱 𝗳𝗿𝗼𝗺 𝗞𝗮𝗴𝗴𝗹𝗲 (𝗵𝘁𝘁𝗽𝘀://𝘄𝘄𝘄.𝗸𝗮𝗴𝗴𝗹𝗲.𝗰𝗼𝗺/𝗱𝗮𝘁𝗮𝘀𝗲𝘁𝘀/𝘀𝗼𝘂𝗳𝗶𝗮𝗻𝗲𝗯𝗰𝗵/𝗺𝗮𝗿𝗼𝗰-𝗮𝘃𝗶𝘁𝗼-𝗰𝗮𝗿-𝗱𝗮𝘁𝗮𝘀𝗲𝘁/𝗱𝗮𝘁𝗮), 𝗱𝗲𝗹𝘃𝗲𝘀 𝗶𝗻𝘁𝗼 𝘁𝗵𝗲 𝗱𝘆𝗻𝗮𝗺𝗶𝗰𝘀 𝗼𝗳 𝗰𝗮𝗿 𝘀𝗮𝗹𝗲𝘀 𝗶𝗻 𝗠𝗼𝗿𝗼𝗰𝗰𝗼 𝘂𝘀𝗶𝗻𝗴 𝗱𝗮𝘁𝗮 𝘀𝗰𝗿𝗮𝗽𝗲𝗱 𝗳𝗿𝗼𝗺 𝗔𝘃𝗶𝘁𝗼.
 
 After obtaining the dataset,I meticulously cleaned it using Excel to ensure accuracy and consistency. The analysis, conducted using Tableau, explores various aspects, including:
 
-1-Most Selling Car Brands: Unveiling the top-performing car brands in the market.
+1-𝗠𝗼𝘀𝘁 𝗦𝗲𝗹𝗹𝗶𝗻𝗴 𝗖𝗮𝗿 𝗕𝗿𝗮𝗻𝗱𝘀 : Unveiling the top-performing car brands in the market.
 
-2-Top Car Selling Cities: Ranking cities in Morocco based on their car sales activity.
+2-𝗧𝗼𝗽 𝗖𝗮𝗿 𝗦𝗲𝗹𝗹𝗶𝗻𝗴 𝗖𝗶𝘁𝗶𝗲𝘀 : Ranking cities in Morocco based on their car sales activity.
 
-3-Cities Leveraging Avito: Identifying cities utilizing Avito as a prominent platform for car sales.
+3-𝗖𝗶𝘁𝗶𝗲𝘀 𝗟𝗲𝘃𝗲𝗿𝗮𝗴𝗶𝗻𝗴 𝗔𝘃𝗶𝘁𝗼 : Identifying cities utilizing Avito as a prominent platform for car sales.
 
-4-Carburant Types: Analyzing the distribution of fuel types among listed cars.
+4-𝗖𝗮𝗿𝗯𝘂𝗿𝗮𝗻𝘁 𝗧𝘆𝗽𝗲𝘀 : Analyzing the distribution of fuel types among listed cars.
 
-5-Car Origins Overview: Offering insights into the origins of the cars available for sale.
+5-𝗖𝗮𝗿 𝗢𝗿𝗶𝗴𝗶𝗻𝘀 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄 : Offering insights into the origins of the cars available for sale.
 
-6-Average Selling Price: Understanding the average prices of cars in the dataset.
+6-𝗔𝘃𝗲𝗿𝗮𝗴𝗲 𝗦𝗲𝗹𝗹𝗶𝗻𝗴 𝗣𝗿𝗶𝗰𝗲 : Understanding the average prices of cars in the dataset.
 
 ![dataaftercleaning](https://github.com/pizzo54/Avito-Car-Sales-Analysis/assets/87623142/fe2c801d-712f-4bf1-9769-904b9d3879fd)
 
